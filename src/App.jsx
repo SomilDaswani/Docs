@@ -1,7 +1,8 @@
 import React from 'react';
 import Background from './components/Background';
 import Foreground from './components/Foreground';
-import './index.css'
+import './index.css';
+import Plus from './components/Plus';
 
 
 function App() {

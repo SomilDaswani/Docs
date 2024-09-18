@@ -8,7 +8,7 @@ const Background = () => {
           Docs.
         </h1>
         <div className="absolute top-[5%] w-full py-10 flex justify-center text-zinc-500 text-xl font-semibold">
-          Document
+          Document.
         </div>
       </div>
     </>
