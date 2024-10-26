@@ -1,8 +1,17 @@
-# React + Vite
+# DOCS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Docs is a web app that helps you make to-do lists or jot down short notes in a nice and modern way. Each note or card can be easily dragged and dropped. 
+Right now, it doesn't have a backend, so it only works on the front end.
 
-Currently, two official plugins are available:
+Key Features:
+- Create and manage to-do lists.
+- Take short notes quickly.
+- Modern and clean design.
+- Drag and drop functionality for easy organization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack:
+ReactJS
+JavaScript
+TailwindCSS
+Motion Framer
+Vercel
